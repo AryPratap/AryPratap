@@ -1,40 +1,30 @@
 
 
-<h2 align="left">Heya 👋, I'm Ary</h2>
+<h2 align="left">Hey 👋, I'm Ary</h2>
 <!--Intro Section-->
 <img src="https://github.com/AryPratap/Ary-Pratap/blob/main/intro.gif" width="30%" align="right">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Senior undergraduate at IIT Gandhinagar.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in software development, machine learning and NLP.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Manchester United fan, we are already friends. GGMU :) :heart: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size 12 [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/llms_800x800.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate about crafting LLM-powered and NLP-driven solutions!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://drive.google.com/file/d/1YErv2RFQPoakSw-RLXs5vKFMaIFpUB5h/view?usp=sharing) <br><br>
 
 <!--Skills Section-->
-## My Tech Stack
+## Tools and Technologies 
 <p align="left">
 	<h4> Programming Lanauges</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/c.svg" alt="C" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="java" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;</p>
 	<h4> Frameworks</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
