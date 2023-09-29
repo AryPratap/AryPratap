@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
 
-<h2 align="left">Heya 👋, I'm Abhinav</h2>
+
+<h2 align="left">Heya 👋, I'm Ary</h2>
 <!--Intro Section-->
 <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="30%" align="right">
 
