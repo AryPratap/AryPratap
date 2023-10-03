@@ -13,10 +13,10 @@
 ## Tools and Technologies 
 
 ### Programming Languages
-<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/c.svg" alt="C" width="40" height="40" />&nbsp;
-<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
+<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/c.svg" alt="C" width="40" height="40" />&nbsp;
+<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
-<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
+<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
 
 ### Tools and frameworks</h4>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
