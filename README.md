@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Senior undergraduate at IIT Gandhinagar.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in software development, machine learning and NLP.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/llms_800x800.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate about crafting LLM-powered and NLP-driven solutions!<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://drive.google.com/file/d/1YErv2RFQPoakSw-RLXs5vKFMaIFpUB5h/view?usp=sharing) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://drive.google.com/file/d/1tg2zhg4WJs7QEzrI3m7Gn7GpOm3JuFlR/view?usp=sharing) <br><br>
 
 
 ## Tools and Technologies 
