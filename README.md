@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Data Scientist by Profression<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;ML/DL geek<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/llms_800x800.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate about building and deploying scalable ML solutions at scale.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/llms_800x800.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate about building and deploying ML solutions at scale.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AryPratap/Ary-Pratap/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://drive.google.com/file/d/1xLCSYBYxxUZEm08t45FEbQDu2oPPYhGe/view?usp=drive_link) <br><br>
 
 
